@@ -1,51 +1,15 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Este projeto tem como objetivo explicar a utilização da IA no nosso dia a dia, para principalmente aumentar nossa produtividade ou facilitar e organizar nossa vida. Por Fim, é mostrado quais os campos que podem ser mais beneficiados com a utilização da IA.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+- **IA Generativa**: ChatGPT para a elaboração do script e estruturação do conteúdo.  
+- **Ferramentas Visuais**: ShortBlocks e pixabay para uso de imagens.
+- **Plataformas de Produção de Vídeo**: Invideo AI para edição de vídeo e inclusão de imagens.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Comecei levantando os principais usos da IA no nosso cotidiano, explicando como ela é aplicada no mundo real para facilitar a vida humana e facilitar a produtividade, por fim explico qual a visão de futuro que podemos esperar das IA Generativas e robôtica.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Assista ao vídeo](https://ai.invideo.io/watch/Opjvut1HCIt)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar esse video utilizando apenas conteúdo gerado por IA foi uma experiência inovadora, mesmo percebendo que ainda peca em transmitir alguma emoção ou humanização nas palavras e síntese de voz, é notório a evolução das IAs generativa em um curto espaço de tempo desde o primeiro modelo do GPT.
