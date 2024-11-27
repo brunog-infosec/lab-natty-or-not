@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O Impacto da IA no Nosso Cotidiano
 
 ## 📒 Descrição
 Este projeto tem como objetivo explicar a utilização da IA no nosso dia a dia, para principalmente aumentar nossa produtividade ou facilitar e organizar nossa vida. Por Fim, é mostrado quais os campos que podem ser mais beneficiados com a utilização da IA.
